@@ -1,0 +1,34 @@
+_repo: The-Pigeon-Tale_20567
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hardy, E. Stuart
+    aliases:
+    - Hardy, E. S. (E. Stuart)
+    - Hardy, Evelyn Stuart
+    gutenberg_agent_id: '7581'
+    url: http://www.gutenberg.org/2009/agents/7581
+covers:
+- cover_type: archival
+  image_path: 20567-h/images/cover-original_th.jpg
+creator:
+  author:
+    agent_name: Bennett, Virginia
+    gutenberg_agent_id: '9393'
+    url: http://www.gutenberg.org/2009/agents/9393
+description: ''
+gutenberg_issued: '2007-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20567'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Fantasy literature'
+title: The Pigeon Tale
+url: http://www.gutenberg.org/ebooks/20567
